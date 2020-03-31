@@ -19,7 +19,7 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1242)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1230)
-	at com.cc.cmbc.order.Application.main(Application.java:17)
+	at Application.main(Application.java:17)
 Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.activemq.user' in value "${spring.activemq.user}"
 	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172)
 	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
@@ -63,7 +63,7 @@ APPLICATION FAILED TO START
 
 Description:
 
-Parameter 0 of method connectionFactory in com.cc.cmbc.order.common.config.ActiveMQConnectionConfig required a bean of type 'org.springframework.boot.autoconfigure.jms.activemq.ActiveMQProperties' that could not be found.
+Parameter 0 of method connectionFactory in ActiveMQConnectionConfig required a bean of type 'org.springframework.boot.autoconfigure.jms.activemq.ActiveMQProperties' that could not be found.
 
 The injection point has the following annotations:
 	- @org.springframework.beans.factory.annotation.Qualifier(value=connectionFactory)
@@ -87,7 +87,7 @@ APPLICATION FAILED TO START
 
 Description:
 
-Parameter 0 of method connectionFactory in com.cc.cmbc.order.common.config.ActiveMQConnectionConfig required a bean of type 'org.springframework.boot.autoconfigure.jms.activemq.ActiveMQProperties' that could not be found.
+Parameter 0 of method connectionFactory in ActiveMQConnectionConfig required a bean of type 'org.springframework.boot.autoconfigure.jms.activemq.ActiveMQProperties' that could not be found.
 
 
 Action:
@@ -112,7 +112,7 @@ APPLICATION FAILED TO START
 
 Description:
 
-Parameter 0 of method jmsListenerQueueContainer in com.cc.cmbc.order.common.config.ActiveMQConnectionConfig required a bean of type 'org.apache.activemq.ActiveMQConnectionFactory' that could not be found.
+Parameter 0 of method jmsListenerQueueContainer in ActiveMQConnectionConfig required a bean of type 'org.apache.activemq.ActiveMQConnectionFactory' that could not be found.
 
 The following candidates were found but could not be injected:
 	- Bean method 'connectionFactory' in 'ActiveMQConnectionConfig' not loaded because @ConditionalOnProperty (spring.activemq.pool.enabled=false) found different value in property 'enabled'
@@ -138,3 +138,7 @@ Consider revisiting the entries above or defining a bean of type 'org.apache.act
 [WARN]2020-03-31 23:05:43.991|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
 [WARN]2020-03-31 23:05:45.064|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [WARN]2020-03-31 23:05:45.072|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-31 23:11:46.732|||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-31 23:11:46.732|||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-31 23:11:47.141|||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-31 23:11:47.145|||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.

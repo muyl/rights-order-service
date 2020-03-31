@@ -1,4 +1,4 @@
-[INFO]2020-03-29 00:12:38.041|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 00:12:38.041|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 00:12:39.086|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 00:12:39.096|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 00:12:39.127|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -12,9 +12,9 @@
 [INFO]2020-03-29 00:12:39.598|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 00:12:39.602|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 00:12:39.602|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 00:13:41.247|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 64.22 seconds (JVM running for 64.858)
+[INFO]2020-03-29 00:13:41.247|,,,||||rights-order-service||Application|Started Application in 64.22 seconds (JVM running for 64.858)
 [INFO]2020-03-29 00:15:15.535|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
-[INFO]2020-03-29 00:15:19.746|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 00:15:19.746|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 00:15:20.794|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 00:15:20.805|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 00:15:20.836|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -28,14 +28,14 @@
 [INFO]2020-03-29 00:15:21.298|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 00:15:21.301|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 00:15:21.301|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 00:15:22.771|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 3.873 seconds (JVM running for 4.578)
+[INFO]2020-03-29 00:15:22.771|,,,||||rights-order-service||Application|Started Application in 3.873 seconds (JVM running for 4.578)
 [INFO]2020-03-29 00:15:44.497|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 00:15:44.533|1305A652F3564C68A82468C753104014,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 00:15:44.534|1305A652F3564C68A82468C753104014,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 00:15:44.533|1305A652F3564C68A82468C753104014,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 00:15:44.534|1305A652F3564C68A82468C753104014,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 00:15:44.546|1305A652F3564C68A82468C753104014,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 00:18:48.386|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
 [INFO]2020-03-29 00:18:48.392|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 00:18:52.966|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 00:18:52.966|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 00:18:54.053|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 00:18:54.065|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 00:18:54.096|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -49,14 +49,14 @@
 [INFO]2020-03-29 00:18:54.533|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 00:18:54.536|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 00:18:54.536|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 00:18:56.051|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 4.066 seconds (JVM running for 4.775)
+[INFO]2020-03-29 00:18:56.051|,,,||||rights-order-service||Application|Started Application in 4.066 seconds (JVM running for 4.775)
 [INFO]2020-03-29 00:19:03.808|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 00:19:03.842|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 00:19:03.842|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 00:19:03.842|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 00:19:03.842|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 00:19:03.844|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 00:19:03.855|A4B3E0B5931048F285FD0545A16B6FC0,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 00:19:03.870|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:01.562|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 09:25:01.562|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 09:25:02.646|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 09:25:02.664|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 09:25:02.708|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -70,41 +70,41 @@
 [INFO]2020-03-29 09:25:03.353|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 09:25:03.359|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 09:25:03.359|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 09:25:05.294|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 4.945 seconds (JVM running for 6.255)
+[INFO]2020-03-29 09:25:05.294|,,,||||rights-order-service||Application|Started Application in 4.945 seconds (JVM running for 6.255)
 [INFO]2020-03-29 09:25:17.006|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 09:25:17.049|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 09:25:17.050|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:17.049|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:17.050|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:17.052|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 09:25:17.066|ED855A664BC34CA48714F5212789AD92,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:17.087|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:17.773|97047E8918594D40B95262B956495D06,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:17.773|97047E8918594D40B95262B956495D06,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 09:25:17.774|97047E8918594D40B95262B956495D06,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 09:25:17.774|97047E8918594D40B95262B956495D06,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:17.774|97047E8918594D40B95262B956495D06,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:17.774|97047E8918594D40B95262B956495D06,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:17.776|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 09:25:18.183|9B0249B0DE6D4B66B9AF8A0935C45C4D,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:18.185|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:18.370|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 09:25:18.371|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:18.370|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:18.371|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:18.371|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 09:25:18.371|5FCC35B645134C04A708979D1B63F4E6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:18.373|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:18.530|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 09:25:18.531|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:18.530|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:18.531|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:18.531|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 09:25:18.531|F7621F3563F046D29449F0DF5A68FDE9,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:18.533|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:25:18.689|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 09:25:18.689|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 09:25:18.690|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 09:25:18.690|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:25:18.690|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:25:18.690|5780FCBB2CC144DE8A232BE800EB8664,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:25:18.692|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 09:25:50.825|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
 [INFO]2020-03-29 09:25:50.831|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 09:25:55.663|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 09:25:55.663|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 09:25:56.756|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 09:25:56.769|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 09:25:56.804|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -118,24 +118,24 @@
 [INFO]2020-03-29 09:25:57.299|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 09:25:57.302|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 09:25:57.303|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 09:25:59.055|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 4.639 seconds (JVM running for 5.463)
+[INFO]2020-03-29 09:25:59.055|,,,||||rights-order-service||Application|Started Application in 4.639 seconds (JVM running for 5.463)
 [INFO]2020-03-29 09:26:05.719|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 09:26:05.767|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 09:26:05.769|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:26:05.767|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 09:26:05.769|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:26:05.771|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 09:26:05.790|FD8479EDBBF64337A88220108A7DE2E6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:26:05.809|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:26:06.588|0C7519A6EBC94C3A88379077F4214F47,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:26:06.591|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 09:26:07.216|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 09:26:07.216|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 09:26:07.217|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 09:26:07.217|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 09:26:07.217|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 09:26:07.217|CA824E67D1044F51A3878238D9EBBD95,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 09:26:07.219|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:05:29.295|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 12:05:29.295|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 12:05:32.185|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 12:05:32.215|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 12:05:32.263|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -149,8 +149,8 @@
 [INFO]2020-03-29 12:05:33.659|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 12:05:33.668|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 12:05:33.668|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 12:05:36.248|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.961 seconds (JVM running for 13.486)
-[INFO]2020-03-29 12:06:12.641|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 12:05:36.248|,,,||||rights-order-service||Application|Started Application in 8.961 seconds (JVM running for 13.486)
+[INFO]2020-03-29 12:06:12.641|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 12:06:14.908|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 12:06:14.929|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 12:06:14.975|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -164,9 +164,9 @@
 [INFO]2020-03-29 12:06:16.248|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 12:06:16.259|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 12:06:16.260|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 12:06:19.120|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.312 seconds (JVM running for 12.716)
+[INFO]2020-03-29 12:06:19.120|,,,||||rights-order-service||Application|Started Application in 8.312 seconds (JVM running for 12.716)
 [INFO]2020-03-29 12:07:44.287|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
-[INFO]2020-03-29 12:07:54.929|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 12:07:54.929|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 12:07:56.948|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 12:07:56.969|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 12:07:57.008|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -180,71 +180,71 @@
 [INFO]2020-03-29 12:07:58.161|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 12:07:58.169|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 12:07:58.169|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 12:08:00.536|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 7.837 seconds (JVM running for 15.478)
+[INFO]2020-03-29 12:08:00.536|,,,||||rights-order-service||Application|Started Application in 7.837 seconds (JVM running for 15.478)
 [INFO]2020-03-29 12:08:18.777|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 12:08:18.844|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 12:08:18.845|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:18.844|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:18.845|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:18.847|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 12:08:19.136|70470352EEBF47858F430295F4EDC728,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:19.211|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:56.370|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:56.370|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:08:56.370|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:08:56.370|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:56.370|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:56.371|F43E003461E04F548064C4E3CFAC2525,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:56.375|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:57.162|B58465A3F82E48F7992B747824E024F5,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:57.164|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 12:08:57.523|AC233ED7576B4900BB01555CB555D7F8,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:57.527|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:57.687|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:57.687|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:08:57.688|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:08:57.688|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:57.688|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:57.688|6DEC26A88668422498E12007979813CC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:57.691|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:57.865|F753047F49ED4D5880504DC9D84FD93C,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:57.867|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:08:58.033|609BE07D73014BE39787A1F05361B193,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:08:58.035|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:10:13.552|589C313B3F614E579F01EA2785AC0BE9,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:10:13.556|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:10:14.318|504042C880D5420A917D5F526654A462,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:10:14.318|504042C880D5420A917D5F526654A462,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:10:14.318|504042C880D5420A917D5F526654A462,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:10:14.318|504042C880D5420A917D5F526654A462,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:10:14.318|504042C880D5420A917D5F526654A462,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:10:14.319|504042C880D5420A917D5F526654A462,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:10:14.321|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:10:14.719|1EC3F57D7FF94186BC8ABA35522631DC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:10:14.721|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:10:14.921|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:10:14.921|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:10:14.921|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:10:14.922|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:10:14.922|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:10:14.922|FAF1179885354A0EBBFE9FE5F77DEB96,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:10:14.924|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:10:15.099|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:10:15.099|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:10:15.100|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:10:15.100|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:10:15.100|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:10:15.100|DA1589D7A94B432792F1430016001918,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:10:15.102|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 12:11:20.384|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
 [INFO]2020-03-29 12:11:20.393|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 12:11:34.730|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 12:11:34.730|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 12:11:36.867|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 12:11:36.888|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 12:11:36.927|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -258,39 +258,39 @@
 [INFO]2020-03-29 12:11:38.240|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 12:11:38.249|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 12:11:38.250|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 12:11:40.694|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 9.769 seconds (JVM running for 19.523)
+[INFO]2020-03-29 12:11:40.694|,,,||||rights-order-service||Application|Started Application in 9.769 seconds (JVM running for 19.523)
 [INFO]2020-03-29 12:11:52.303|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 12:11:52.376|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 12:11:52.377|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:52.376|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:52.377|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:52.379|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 12:11:52.402|CCABA83CB4394DF8A921473583B32F50,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:52.470|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:11:52.550|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:52.550|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:11:52.551|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:11:52.551|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:52.551|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:52.552|431BC40DE1ED4B40A72D244624C1FCB5,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:52.556|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:52.742|92B56F06DBDD474A9D94C0817086987C,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:52.744|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:11:53.142|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:53.142|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:11:53.142|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:11:53.142|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:53.142|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:53.143|377EF7215D394A89ADD29BF9C66DD024,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:53.144|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:53.309|CA0B1CAEF80D4C64AE2FB7F9EE45ECB0,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:53.311|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 12:11:53.510|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 12:11:53.510|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 12:11:53.511|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 12:11:53.511|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 12:11:53.511|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 12:11:53.511|FC46255B18B041E79F1A5DC6937FD6F7,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 12:11:53.513|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 13:56:22.033|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 13:56:22.033|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 13:56:24.495|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 13:56:24.521|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 13:56:24.566|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -304,26 +304,26 @@
 [INFO]2020-03-29 13:56:25.796|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 13:56:25.809|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 13:56:25.809|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 13:56:28.890|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.641 seconds (JVM running for 13.144)
+[INFO]2020-03-29 13:56:28.890|,,,||||rights-order-service||Application|Started Application in 8.641 seconds (JVM running for 13.144)
 [INFO]2020-03-29 13:56:51.312|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 13:56:51.387|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 13:56:51.389|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 13:56:51.387|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 13:56:51.389|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 13:56:51.391|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 13:56:51.413|49ED015CAFF949D4ACC7F7589A23D077,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 13:56:51.546|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 13:56:53.535|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 13:56:53.535|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 13:56:53.535|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 13:56:53.536|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 13:56:53.536|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 13:56:53.536|710F6A950B8842A6BC33A073B0858A5A,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 13:56:53.541|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 13:56:54.206|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 13:56:54.206|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 13:56:54.207|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 13:56:54.207|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 13:56:54.207|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 13:56:54.207|A01C985E94A44858B87CC248A5725DA8,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 13:56:54.211|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:53:11.084|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
 [INFO]2020-03-29 14:53:11.118|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 14:53:22.454|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 14:53:22.454|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 14:53:24.898|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 14:53:24.931|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 14:53:24.987|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -337,189 +337,189 @@
 [INFO]2020-03-29 14:53:26.217|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 14:53:26.229|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 14:53:26.229|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 14:53:29.044|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.434 seconds (JVM running for 16.073)
+[INFO]2020-03-29 14:53:29.044|,,,||||rights-order-service||Application|Started Application in 8.434 seconds (JVM running for 16.073)
 [INFO]2020-03-29 14:53:49.990|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 14:53:50.064|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:50.064|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:50.087|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:51.316|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:51.316|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:51.316|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:51.571|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:51.571|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:51.574|8595C2F223534E3C835727BC3E1C0C04,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:53:51.667|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:53:52.257|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:52.257|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:52.258|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:52.818|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:52.818|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:52.818|6B0BA1F4078C43558EBEFD399B98DB6A,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:53:52.824|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:53:53.034|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:53.034|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:53.034|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:53.761|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:53.761|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:53.761|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:53:53.761|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:53.761|9F5C17CBD8B84DF3897F94F41237CE01,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:53.761|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:53:53.766|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:53:54.404|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:54.404|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:54.404|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:54.538|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:54.538|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:54.538|EC61609B7A744D52BEAAAFB64FA25642,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:53:54.541|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:53:54.922|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:53:54.922|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:53:54.923|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:53:55.261|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:55.261|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:55.261|5679F03474AE4AA59C8ADBE1081D82A6,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:53:55.264|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:53:55.908|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:53:55.908|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:55.908|E331D75EA8E34448805E31167913070F,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:55.912|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:53:56.425|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:53:56.425|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:53:56.425|92294F8DFBAF41CB88923182BC7581AD,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:53:56.427|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:12.674|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:12.674|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:12.674|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:54:13.452|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:13.452|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:13.452|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:54:14.006|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:14.006|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:14.006|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:14.178|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:14.178|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:14.178|4BC2739406CB40799C0E130E4191FBC0,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:14.189|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:14.671|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:14.671|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:14.673|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:14.957|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:14.957|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:14.957|77CCBD35C1ED4A16B02E03A592A11B41,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:14.959|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:15.339|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:15.339|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:15.339|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:15.510|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:15.510|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:15.510|0A0F7E086F2A4DADBC8474DF57DF20A4,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:15.514|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:16.007|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:16.007|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:16.007|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:16.175|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:16.177|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:16.177|5777A457EE51493D95387FEF92FA6978,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:16.184|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:16.758|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:16.758|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:16.758|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:16.841|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:16.841|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:16.841|BC2131D420D34CD1A9FB76E59E6ACBFB,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:16.843|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:17.313|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:17.313|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:17.314|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:17.512|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:17.512|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:17.512|4B5FFAF868D54976A48D3A73BEB8C849,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:17.517|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:17.523|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:17.523|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:17.524|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:54:17.709|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:17.709|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:17.709|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:54:17.877|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:17.877|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:17.877|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:18.073|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:18.262|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:18.266|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:18.266|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:18.267|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:18.275|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:54:18.815|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:18.820|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
-[INFO]2020-03-29 14:54:18.821|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:18.820|9D839671BD714AABA7B86C81A66FCC1C,,,||||rights-order-service||LogController|Another thread running
+[INFO]2020-03-29 14:54:18.821|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:54:18.821|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:19.027|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:19.031|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
-[INFO]2020-03-29 14:54:19.032|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:19.031|5A9536D861D9479B898D939CFF8893EF,,,||||rights-order-service||LogController|Another thread running
+[INFO]2020-03-29 14:54:19.032|F31D5340BBA242319C7DEC8165DA1539,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:19.032|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:54:19.213|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:19.213|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:19.213|55A6391BEE6F486BBCF5D89C02E930E3,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:54:19.219|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:19.381|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:19.381|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:19.381|85B5F83B04A9499798594877FCC98A35,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:19.383|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:19.770|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:19.770|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:19.770|28269E6689E64A65A4312E2EF8682BAC,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:19.773|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:20.324|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:54:20.324|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:20.324|21129250D7254C2281DB11035A2EF6B9,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:20.327|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:54:50.723|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:54:52.777|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 14:54:55.296|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:54:52.777|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 14:54:55.296|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:54:55.894|8C3F68EE1E164F24968F945520532EE3,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:54:55.898|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:00.115|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:00.115|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:00.116|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:00.796|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:00.796|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:00.797|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:01.312|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:01.312|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:01.312|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:01.620|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:01.621|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:01.621|886942C99D1D4851B20A451C241426B1,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:01.624|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:01.833|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:01.833|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:01.834|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:02.241|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:02.241|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:02.242|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:02.301|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:02.301|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:02.301|5350C2F0F37746FFB6E40937AFBA111B,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:02.305|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:02.667|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:02.667|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:02.667|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:02.813|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:02.813|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:02.813|77F3B8E462C44047A8AE25A5B246D3A8,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:02.815|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:03.026|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:03.026|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:03.027|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:03.338|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:03.339|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:03.339|3384D22CFC72472A9F6D2794184159BB,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:03.342|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:03.427|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:03.427|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:03.427|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:03.745|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:03.745|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:03.745|2B5094BEFB334A14B9D2D109377FA8E7,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:03.748|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:04.170|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:04.170|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:04.170|0EC2AB7063714A57ABD6919B0DB8961E,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:55:04.177|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:04.531|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:04.531|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:04.531|1A1EC882310845689174E2689B9153B3,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:55:04.534|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:04.930|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:04.930|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:04.930|A94A0A8BA6254CC78222F1D5E82AA6BC,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:55:04.933|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:55:46.180|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:46.181|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:46.181|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:47.684|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:47.684|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:47.684|4CAEF658C8644DCA998876FE732F6A5A,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:47.688|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:48.598|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:48.598|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:48.598|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:50.101|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:50.102|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:50.102|5D321E791D6B4EAEBE9E27F82613F094,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:50.104|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:50.121|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:50.121|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:50.121|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:50.671|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:50.671|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
-[INFO]2020-03-29 14:55:51.155|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:50.671|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:51.155|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:51.155|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 14:55:51.617|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:51.617|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:51.617|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:51.626|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:51.627|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:51.627|AC9F5133801E49A5978F17A361B06198,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:51.630|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:51.947|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-29 14:55:51.947|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||LogController|TestController /test invoke
 [INFO]2020-03-29 14:55:51.947|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 14:55:52.176|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:52.176|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:52.176|5E21A74A909940D0A2C00CB99C83B427,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:52.180|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 14:55:52.659|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:52.659|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:52.659|9742D620CFE845B9969C44B3088F28BD,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-29 14:55:52.662|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:55:53.122|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:53.122|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:53.122|584328E0F8CA4101A3A10C3162F74AD4,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:53.126|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
 [INFO]2020-03-29 14:55:53.452|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
-[INFO]2020-03-29 14:55:53.452|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-29 14:55:53.452|D2B6910876514F7DAB39A1B8F4256EEF,,,||||rights-order-service||LogController|Another thread running
 [INFO]2020-03-29 14:55:53.455|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
-[INFO]2020-03-29 15:20:06.837|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 15:20:06.837|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 15:20:09.248|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 15:20:09.270|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 15:20:09.308|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -533,7 +533,7 @@
 [INFO]2020-03-29 15:20:10.540|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 15:20:10.547|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 15:20:10.547|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 15:20:13.224|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.048 seconds (JVM running for 12.296)
+[INFO]2020-03-29 15:20:13.224|,,,||||rights-order-service||Application|Started Application in 8.048 seconds (JVM running for 12.296)
 [INFO]2020-03-29 15:20:22.885|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
 [INFO]2020-03-29 15:20:24.472|98D7571DDFEF476EB8E50BCA8E186442,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 15:20:28.161|E11EE7745AB247F3ACEC2FF406AD3A04,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
@@ -551,11 +551,11 @@
 [INFO]2020-03-29 15:22:39.619|E6CEB91879574E9DAD302FDE80A128CB,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 15:22:42.999|1F1C896464744BD0BDA2ABB7BE078D21,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 15:22:46.365|7FAE1F41E12F4A8DA929E01DAEAA00BD,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
-[INFO]2020-03-29 15:23:28.615|143E69C3B98E4C5780EFBC3E37C750E4,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=[com.cc.cmbc.order.domain.AlarmMessage@3c44a94d])
+[INFO]2020-03-29 15:23:28.615|143E69C3B98E4C5780EFBC3E37C750E4,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=[AlarmMessage@3c44a94d])
 [INFO]2020-03-29 15:25:25.766|D4906BF59C0E4E3A8924C617B693D007,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 15:28:25.758|D81A1E6662174DA58F61CA1C36E61E09,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
 [INFO]2020-03-29 15:31:25.751|C6980A492B264CDB9ADC28D72E703251,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
-[INFO]2020-03-29 20:30:05.781|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 20:30:05.781|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 20:30:08.049|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 20:30:08.072|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 20:30:08.117|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -569,7 +569,7 @@
 [INFO]2020-03-29 20:30:09.393|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 20:30:09.405|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 20:30:09.405|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 20:30:12.973|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 9.087 seconds (JVM running for 17.679)
+[INFO]2020-03-29 20:30:12.973|,,,||||rights-order-service||Application|Started Application in 9.087 seconds (JVM running for 17.679)
 [INFO]2020-03-29 20:31:11.603|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
 [INFO]2020-03-29 20:31:13.197|20AFFCE12366492B964EA7CD696D6E42,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 20:31:16.778|B034A175B829471095EDC8774EE02E8E,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
@@ -578,7 +578,7 @@
 [INFO]2020-03-29 20:31:28.001|08E23251975740E0810535A28C01A664,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 20:45:46.664|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
 [INFO]2020-03-29 20:45:46.677|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
-[INFO]2020-03-29 20:45:59.888|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 20:45:59.888|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 20:46:03.050|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 20:46:03.072|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 20:46:03.111|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -592,9 +592,9 @@
 [INFO]2020-03-29 20:46:04.537|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 20:46:04.548|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 20:46:04.549|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 20:46:07.864|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 10.43 seconds (JVM running for 15.425)
+[INFO]2020-03-29 20:46:07.864|,,,||||rights-order-service||Application|Started Application in 10.43 seconds (JVM running for 15.425)
 [INFO]2020-03-29 20:49:10.094|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
-[INFO]2020-03-29 20:49:27.599|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-29 20:49:27.599|,,,||||rights-order-service||Application|The following profiles are active: dev
 [INFO]2020-03-29 20:49:29.928|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
 [INFO]2020-03-29 20:49:29.954|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
 [WARN]2020-03-29 20:49:30.005|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
@@ -608,7 +608,7 @@
 [INFO]2020-03-29 20:49:31.293|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
 [WARN]2020-03-29 20:49:31.303|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
 [INFO]2020-03-29 20:49:31.303|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-[INFO]2020-03-29 20:49:34.886|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 11.188 seconds (JVM running for 21.051)
+[INFO]2020-03-29 20:49:34.886|,,,||||rights-order-service||Application|Started Application in 11.188 seconds (JVM running for 21.051)
 [INFO]2020-03-29 20:49:46.244|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
 [INFO]2020-03-29 20:49:47.838|BF1D8AD91CB14E4F8F2C613EE32A119F,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
 [INFO]2020-03-29 20:49:51.250|1A327C5F13FA4E61AA1418D5BC07BC00,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)

@@ -1,0 +1,235 @@
+[INFO]2020-03-30 09:35:19.098|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Shutting down ExecutorService 'asyncServiceExecutor'
+[INFO]2020-03-30 09:35:19.288|,,,||||rights-order-service||io.undertow.servlet|Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO]2020-03-30 12:24:57.491|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:24:59.960|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:24:59.991|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:25:00.040|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:25:00.041|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:25:00.085|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:25:00.432|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:25:01.164|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:25:01.175|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:25:01.190|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:25:01.451|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:25:01.451|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:25:01.461|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:25:01.461|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 12:26:09.605|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:26:11.987|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:26:12.011|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:26:12.056|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:26:12.056|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:26:12.101|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:26:12.427|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:26:13.100|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:26:13.110|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:26:13.123|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:26:13.335|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:26:13.336|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:26:13.345|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:26:13.346|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 12:27:30.263|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:27:32.423|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:27:32.446|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:27:32.482|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:27:32.482|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:27:32.517|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:27:32.799|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:27:33.408|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:27:33.418|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:27:33.429|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:27:33.628|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:27:33.628|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:27:33.667|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:27:33.667|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 12:30:30.572|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:30:32.902|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:30:32.925|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:30:32.970|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:30:32.971|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:30:33.016|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:30:33.327|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:30:34.074|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:30:34.091|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:30:34.113|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:30:34.396|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:30:34.397|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:30:34.410|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:30:34.411|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 12:31:29.198|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:31:31.509|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:31:31.536|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:31:31.575|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:31:31.575|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:31:31.610|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:31:31.888|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:31:32.518|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:31:32.527|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:31:32.539|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:31:32.738|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:31:32.738|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:31:32.778|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:31:32.778|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 12:34:09.709|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 12:34:11.854|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 12:34:11.878|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 12:34:11.917|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 12:34:11.918|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 12:34:11.953|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 12:34:12.266|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 12:34:12.887|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 12:34:12.898|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 12:34:12.910|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 12:34:13.146|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:34:13.146|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 12:34:13.157|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 12:34:13.157|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 13:17:57.946|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 13:18:00.406|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 13:18:00.436|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 13:18:00.483|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 13:18:00.484|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 13:18:00.551|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 13:18:00.884|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 13:18:01.549|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 13:18:01.559|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 13:18:01.571|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 13:18:01.821|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 13:18:01.821|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 13:18:01.830|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 13:18:01.830|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 13:18:04.739|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.589 seconds (JVM running for 12.993)
+[INFO]2020-03-30 13:21:05.277|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO]2020-03-30 13:21:05.406|CB272E0C29F945E8B1C8614AFAD9F3AE,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:05.439|CB272E0C29F945E8B1C8614AFAD9F3AE,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:06.912|CB272E0C29F945E8B1C8614AFAD9F3AE,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:06.918|CB272E0C29F945E8B1C8614AFAD9F3AE,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:06.957|BB40CE453E69407DAE1784DE4EA7C108,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:06.958|BB40CE453E69407DAE1784DE4EA7C108,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:07.960|2FE74207A3834CCF884F12A6BA03BEF7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:07.960|2FE74207A3834CCF884F12A6BA03BEF7,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:08.462|BB40CE453E69407DAE1784DE4EA7C108,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:08.463|BB40CE453E69407DAE1784DE4EA7C108,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:08.631|4EA82D13522748E1A8047A573EF73B8F,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:08.634|4EA82D13522748E1A8047A573EF73B8F,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:09.073|5C22A085740B4D6E866A51E9504D280E,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:09.074|5C22A085740B4D6E866A51E9504D280E,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:09.464|2FE74207A3834CCF884F12A6BA03BEF7,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:09.464|2FE74207A3834CCF884F12A6BA03BEF7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:09.513|F10CEDA495CD458881E44D9059518C41,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:09.513|F10CEDA495CD458881E44D9059518C41,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:09.926|19A46F2B97814E4F84E111AC3858331A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:09.926|19A46F2B97814E4F84E111AC3858331A,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:10.134|4EA82D13522748E1A8047A573EF73B8F,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:10.134|4EA82D13522748E1A8047A573EF73B8F,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:10.317|21CC9BC78FEC408AA0BEAF505EC6E2E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:10.318|21CC9BC78FEC408AA0BEAF505EC6E2E7,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:10.576|5C22A085740B4D6E866A51E9504D280E,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:10.576|5C22A085740B4D6E866A51E9504D280E,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:10.695|969B10846A5E45BA9C66533AAF5F0C8B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:10.695|969B10846A5E45BA9C66533AAF5F0C8B,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:10.961|57C8DC4312BA4057A5B81ECE66226BDA,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:10.961|57C8DC4312BA4057A5B81ECE66226BDA,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:11.017|F10CEDA495CD458881E44D9059518C41,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:11.028|F10CEDA495CD458881E44D9059518C41,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:11.062|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
+[INFO]2020-03-30 13:21:11.214|1FC26CD99FF944369B5D6AAC9DC266D8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:11.215|1FC26CD99FF944369B5D6AAC9DC266D8,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:11.404|59EE2A515E1E4CEB8395DA7FD1D08917,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:11.430|19A46F2B97814E4F84E111AC3858331A,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:11.439|59EE2A515E1E4CEB8395DA7FD1D08917,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:11.575|73AED02C1A5249F4B7442018264F4DE6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:11.725|157F086715A149EDA086948DDF53F343,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:11.822|21CC9BC78FEC408AA0BEAF505EC6E2E7,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:11.827|19A46F2B97814E4F84E111AC3858331A,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:11.828|73AED02C1A5249F4B7442018264F4DE6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:11.892|F09B2FB96C694707BF405BCBF941817D,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.047|5EF446154DC944E693535CD607A0756B,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.178|646854A812B8463CA6802FB66690E361,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.199|969B10846A5E45BA9C66533AAF5F0C8B,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:12.209|157F086715A149EDA086948DDF53F343,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:12.327|ED843E2022A84EEA91F21397DF7DC7E7,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.465|57C8DC4312BA4057A5B81ECE66226BDA,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:12.473|69DED146B4294398B8F1B63E54CA5431,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.476|21CC9BC78FEC408AA0BEAF505EC6E2E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:12.476|F09B2FB96C694707BF405BCBF941817D,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:12.631|07455687E0F6451E9D2A12208762B652,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.718|1FC26CD99FF944369B5D6AAC9DC266D8,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:12.732|5EF446154DC944E693535CD607A0756B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:12.776|C6AF746A5EBA407DB793D044E98C2771,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.931|46C67C56D0E741C08E60404698E3E6D6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-30 13:21:12.942|59EE2A515E1E4CEB8395DA7FD1D08917,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:12.952|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
+[INFO]2020-03-30 13:21:12.958|646854A812B8463CA6802FB66690E361,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:13.330|73AED02C1A5249F4B7442018264F4DE6,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:13.338|969B10846A5E45BA9C66533AAF5F0C8B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:13.338|ED843E2022A84EEA91F21397DF7DC7E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:13.714|157F086715A149EDA086948DDF53F343,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:13.723|57C8DC4312BA4057A5B81ECE66226BDA,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:13.723|69DED146B4294398B8F1B63E54CA5431,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:13.980|F09B2FB96C694707BF405BCBF941817D,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:13.992|07455687E0F6451E9D2A12208762B652,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:14.237|5EF446154DC944E693535CD607A0756B,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:14.244|1FC26CD99FF944369B5D6AAC9DC266D8,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.244|C6AF746A5EBA407DB793D044E98C2771,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:14.459|646854A812B8463CA6802FB66690E361,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:14.481|46C67C56D0E741C08E60404698E3E6D6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-30 13:21:14.843|ED843E2022A84EEA91F21397DF7DC7E7,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:14.849|,,,||||rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
+[INFO]2020-03-30 13:21:14.852|59EE2A515E1E4CEB8395DA7FD1D08917,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|73AED02C1A5249F4B7442018264F4DE6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|157F086715A149EDA086948DDF53F343,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|F09B2FB96C694707BF405BCBF941817D,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|5EF446154DC944E693535CD607A0756B,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|646854A812B8463CA6802FB66690E361,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:14.852|ED843E2022A84EEA91F21397DF7DC7E7,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:15.226|69DED146B4294398B8F1B63E54CA5431,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:15.226|69DED146B4294398B8F1B63E54CA5431,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:15.496|07455687E0F6451E9D2A12208762B652,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:15.496|07455687E0F6451E9D2A12208762B652,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:15.748|C6AF746A5EBA407DB793D044E98C2771,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:21:15.748|C6AF746A5EBA407DB793D044E98C2771,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:15.985|46C67C56D0E741C08E60404698E3E6D6,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-30 13:21:15.985|46C67C56D0E741C08E60404698E3E6D6,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-30 13:24:58.668|3AC99BA7DC6440DBB551C26EC3E1BDC3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:25:01.707|8DA0F676D6134BC2AA697F7301E6A5A3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:25:04.846|5316858D16DA44D9A89A736D43EE8591,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:25:08.357|28D6CAF1F5B248289E3D8BC1CD61314B,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:17.296|B4EC6753C0F9451EBE1A8381FDDA87FC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:20.708|681F759B97A54D8491E76E51C90C97BC,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:23.973|3921121C10654A14B0E0D9544ECB25E0,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:27.251|1F59754F00E944A983A1DAB2CCA1B181,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:30.559|68D58871163342E7A68AD48BD155CDB6,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:33.981|81DEBE95779E4064BE10544EC89DF636,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:37.329|E7E5E331B62E4B0B9C4D7934E29D15E3,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 13:26:40.701|B5089FAB7AC649E9B27DCA7B3C55E3CD,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=timeout)
+[INFO]2020-03-30 14:38:12.069|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 14:38:14.514|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 14:38:14.542|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 14:38:14.587|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 14:38:14.588|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 14:38:14.634|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 14:38:14.939|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 14:38:15.586|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 14:38:15.595|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 14:38:15.607|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 14:38:15.844|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 14:38:15.844|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 14:38:15.857|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 14:38:15.858|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 14:38:19.059|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 8.941 seconds (JVM running for 13.549)
+[INFO]2020-03-30 18:23:26.423|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-30 18:23:28.799|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-30 18:23:28.826|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-30 18:23:28.876|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-30 18:23:28.877|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-30 18:23:28.920|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-30 18:23:29.254|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-30 18:23:29.926|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-30 18:23:29.938|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-30 18:23:29.949|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-30 18:23:30.220|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 18:23:30.220|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-30 18:23:30.229|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-30 18:23:30.230|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-30 18:23:33.663|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 9.683 seconds (JVM running for 14.609)

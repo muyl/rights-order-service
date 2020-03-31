@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: @profileActive@
+  application:
+    name: ${project.artifactId}
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+  messages:
+    encoding: UTF-8
+
+logging:
+  config: classpath:config/logback.xml

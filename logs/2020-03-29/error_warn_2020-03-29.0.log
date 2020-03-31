@@ -1,0 +1,60 @@
+[WARN]2020-03-29 00:12:39.127|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 00:12:39.127|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 00:12:39.598|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 00:12:39.602|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 00:15:20.836|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 00:15:20.837|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 00:15:21.297|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 00:15:21.301|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 00:18:54.096|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 00:18:54.097|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 00:18:54.533|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 00:18:54.536|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 09:25:02.708|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 09:25:02.709|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 09:25:03.352|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 09:25:03.359|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 09:25:56.804|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 09:25:56.805|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 09:25:57.298|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 09:25:57.302|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:05:32.263|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 12:05:32.263|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 12:05:33.659|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:05:33.668|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:06:14.975|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 12:06:14.975|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 12:06:16.248|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:06:16.259|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:07:57.008|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 12:07:57.008|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 12:07:58.161|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:07:58.169|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:11:36.927|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 12:11:36.928|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 12:11:38.240|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 12:11:38.249|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 13:56:24.566|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 13:56:24.567|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 13:56:25.795|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 13:56:25.809|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 14:53:24.987|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 14:53:24.987|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 14:53:26.217|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 14:53:26.229|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 15:20:09.308|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 15:20:09.308|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 15:20:10.539|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 15:20:10.547|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:30:08.117|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 20:30:08.118|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 20:30:09.389|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:30:09.405|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:46:03.111|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 20:46:03.112|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 20:46:04.537|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:46:04.548|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:49:30.005|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-29 20:49:30.005|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[WARN]2020-03-29 20:49:31.293|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[WARN]2020-03-29 20:49:31.303|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.

@@ -74,8 +74,8 @@ public class ActiveMQConnectionConfig {
 
 
     @Bean("jmsTemplate")
-    JmsTemplate jmsTemplate(@Qualifier("activeMQLogConverter")MessageConverter activeMQLogConverter,@Qualifier("connectionFactory") ConnectionFactory connectionFactory) {
-        JmsTemplate jmsTemplate = new JmsTemplate(connectionFactory);
+    JmsTemplate jmsTemplate(@Qualifier("activeMQLogConverter")MessageConverter activeMQLogConverter,PooledConnectionFactory pooledJmsConnectionFactory) {
+        JmsTemplate jmsTemplate = new JmsTemplate(pooledJmsConnectionFactory);
         jmsTemplate.setMessageConverter(activeMQLogConverter);
         //设置优先级，0最低，9最高
         jmsTemplate.setPriority(9);
@@ -83,9 +83,9 @@ public class ActiveMQConnectionConfig {
     }
 
     @Bean
-    public JmsListenerContainerFactory jmsListenerQueueContainer(ActiveMQConnectionFactory connectionFactory){
+    public JmsListenerContainerFactory jmsListenerQueueContainer(PooledConnectionFactory pooledJmsConnectionFactory){
         DefaultJmsListenerContainerFactory factory = new DefaultJmsListenerContainerFactory();
-        factory.setConnectionFactory(connectionFactory);
+        factory.setConnectionFactory(pooledJmsConnectionFactory);
         factory.setPubSubDomain(Boolean.FALSE);
         factory.setMessageConverter(new ActiveMQLogConverter());
         return  factory;

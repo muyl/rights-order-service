@@ -10,7 +10,7 @@
 	<property name="logLevel" value="INFO"/>
 	<!-- 日志地址 -->
 	<property name="logHome" value="./logs/" scope="context" />
-	<property name="pattern" value="[%level]%date{yyyy-MM-dd HH:mm:ss.SSS}|%X{req.id},%X{X-B3-SpanId},%X{X-B3-ParentSpanId},%X{X-Span-Export}|%X{req.userIp}|%X{req.context}|%X{req.contextIp}|${appName}|%X{functionId}|%logger{35}|%m%n" scope="context" />
+	<property name="pattern" value="[%level]%date{yyyy-MM-dd HH:mm:ss.SSS}|%X{req.id}|%X{req.userIp}|%X{req.context}|%X{req.contextIp}|${appName}|%X{functionId}|%logger{35}|%m%n" scope="context" />
 
 
 	<!-- JMX监控 -->

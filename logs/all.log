@@ -408,3 +408,39 @@ Consider revisiting the entries above or defining a bean of type 'org.apache.act
 [INFO]2020-03-31 22:16:30.111|7D907ACC10474C39B7671F2809DB4B8F,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
 [INFO]2020-03-31 22:16:30.111|7D907ACC10474C39B7671F2809DB4B8F,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
 [INFO]2020-03-31 22:16:30.152|7D907ACC10474C39B7671F2809DB4B8F,,,|null|rights-order-service|127.0.0.1|rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
+[INFO]2020-03-31 22:53:20.449|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-31 22:53:22.697|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-31 22:53:22.722|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-31 22:53:22.766|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-31 22:53:22.767|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-31 22:53:22.810|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-31 22:53:23.118|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-31 22:53:23.715|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-31 22:53:23.726|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-31 22:53:23.737|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-31 22:53:28.283|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-31 22:53:28.283|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-31 22:53:28.292|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-31 22:53:28.292|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-31 22:53:31.269|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 12.696 seconds (JVM running for 17.996)
+[INFO]2020-03-31 23:05:41.870|,,,||||rights-order-service||com.cc.cmbc.order.Application|The following profiles are active: dev
+[INFO]2020-03-31 23:05:43.935|,,,||||rights-order-service||org.xnio|XNIO version 3.3.8.Final
+[INFO]2020-03-31 23:05:43.956|,,,||||rights-order-service||org.xnio.nio|XNIO NIO Implementation Version 3.3.8.Final
+[WARN]2020-03-31 23:05:43.990|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+[WARN]2020-03-31 23:05:43.991|,,,||||rights-order-service||io.undertow.websockets.jsr|UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[INFO]2020-03-31 23:05:44.024|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring embedded WebApplicationContext
+[INFO]2020-03-31 23:05:44.301|,,,||||rights-order-service||c.c.c.o.common.config.RedisConfig|redis password:null
+[INFO]2020-03-31 23:05:44.843|,,,||||rights-order-service||c.c.c.o.c.config.ExecutorConfig|start asyncServiceExecutor
+[INFO]2020-03-31 23:05:44.852|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService
+[INFO]2020-03-31 23:05:44.862|,,,||||rights-order-service||c.c.c.o.c.l.ThreadPoolExecutorMdcWrapper|Initializing ExecutorService 'asyncServiceExecutor'
+[WARN]2020-03-31 23:05:45.064|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-31 23:05:45.064|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[WARN]2020-03-31 23:05:45.072|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|No URLs will be polled as dynamic configuration sources.
+[INFO]2020-03-31 23:05:45.072|,,,||||rights-order-service||c.n.c.s.URLConfigurationSource|To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[INFO]2020-03-31 23:05:47.332|,,,||||rights-order-service||com.cc.cmbc.order.Application|Started Application in 7.088 seconds (JVM running for 11.116)
+[INFO]2020-03-31 23:06:03.437|,,,||||rights-order-service||io.undertow.servlet|Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO]2020-03-31 23:06:03.736|B605052AACE1472CAB6FB22467C43DCB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|TestController /test invoke
+[INFO]2020-03-31 23:06:03.768|B605052AACE1472CAB6FB22467C43DCB,,,||||rights-order-service||c.c.c.o.c.e.GlobalResponseHandler|返回参数：ReplyVo(code=200, message=交易成功, data=null)
+[INFO]2020-03-31 23:06:05.243|B605052AACE1472CAB6FB22467C43DCB,,,||||rights-order-service||com.cc.cmbc.order.web.LogController|Another thread running
+[INFO]2020-03-31 23:06:05.247|B605052AACE1472CAB6FB22467C43DCB,,,||||rights-order-service||c.c.c.order.message.MessageProducer|发送消息：send message
+[INFO]2020-03-31 23:06:05.385|B605052AACE1472CAB6FB22467C43DCB,,,|null|rights-order-service|127.0.0.1|rights-order-service||c.c.c.order.message.MessageConsumer|Consumer收到的报文为:send message
